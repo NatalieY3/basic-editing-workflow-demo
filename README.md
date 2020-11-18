@@ -5,3 +5,6 @@ here is some text
 
 ###sub sub header
 more text
+
+* point 1
+* point 2
